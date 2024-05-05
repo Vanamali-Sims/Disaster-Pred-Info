@@ -1,0 +1,8 @@
+react
+reactdom
+parcel
+react router
+tailwind
+materialtailwind
+mapbox
+forest fires - scikit learn 1.2.2
